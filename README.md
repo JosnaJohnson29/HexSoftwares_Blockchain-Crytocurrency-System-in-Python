@@ -1,4 +1,4 @@
-# 🔗 Neuralcoin – Simple Blockchain in Python
+# 🔗 Neuralcoin – Blockchain in Python
 
 A simple educational **Blockchain/Cryptocurrency system** developed using Python.
 
